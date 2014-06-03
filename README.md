@@ -10,3 +10,7 @@ More information will be added as things are done<br/>
 
 #	Resources:
 DPDK	http://dpdk.org/<br/>
+
+
+#	Primary Authors:
+Eli Katz	elias.h.katz@gmail.com, ehkatz@gwu.edu<br/>
